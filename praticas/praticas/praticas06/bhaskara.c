@@ -7,11 +7,11 @@ int main () {
     int b = 0;
     int c = 0;
     scanf("%i", a);
-    getchar();
+  
     scanf("%i", b);
-    getchar();
+   
     scanf("%i", c);
-    getchar();
+   
 
     float delta = b*b - 4*a*c;
 
